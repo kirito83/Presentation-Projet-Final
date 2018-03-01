@@ -1,10 +1,10 @@
-#### Ease, votre générateur de tournoi
+# Ease, votre générateur de tournoi
 
-### Pourquoi se servir de Ease ?
+## Pourquoi se servir de Ease ?
 
 Vous souhaitez organiser un tournoi d'Hearthstone ou de Fifa 18 avec vos amis ? Ou vous recherchez simplement un tournoi près de chez vous ou en ligne pour mettre du piment dans votre session de Gaming ? Ease vous permet de générer votre propre tournoi, dans le format que vous désirez (poules, arbre à élimination directe) de manière rapide et extrêmement simple. N'importe quel utilisateur peut créer un tournoi, et peut rejoindre un tournoi proposé par un autre utilisateur.
 
-### Quelle est la demande pour ce type de service ?
+## Quelle est la demande pour ce type de service ?
 
 Chaque jour, les jeux vidéo et l'esport se développent un peu plus dans la société. Avec eux l'apparition de "lan", des rassemblements de joueurs qui s'affrontent lors de tournois de plusieurs heures. Il peut s'agir d'un week end avec des amis à la maison, ou d'un grand rassemblement de centaines de joueurs lors des plus grands événements comme la Paris Games Week.
 
@@ -14,7 +14,7 @@ L'intérêt du site est donc surtout rendre plus simple la création de ces tour
 *  En gérant des cashprize si les joueurs/organisateurs souhaitent récompenser les gagnants.
 *  En proposant une interface claire, permettant d'inviter d'autres utilisateurs ou de trouver des tournois déjà créés.
 
-### Que va faire le site ?
+## Que va faire le site ?
 
 Le site va permettre de rassembler une communauté de joueurs compétitifs et/ou amateur qui cherchent à faire des tournois. Il va les aider dans l'organisation et dans la communication avec les autres joueurs.
 Quels sont ses features ?
@@ -31,7 +31,7 @@ Ensuite deux fonctionnalités optionnelles qui sont envisagées si nous avons le
 
 -Dans certains jeux notamment Hearthstone, nous allons voir si l'API nous permet de récupérer directement les résultats d'une partie, au quel cas les joueurs ne seraient plus obligé d'apporter une preuve de leur victoire (screenshot).
 
-### Quelles sont ses pages ?
+## Quelles sont ses pages ?
 
 *   Evidemment, la page d'accueil, et l'ensemble sign up-login-page de profil
 *   Une page de création de tournoi, et une page d'édition de tournoi
@@ -39,10 +39,10 @@ Ensuite deux fonctionnalités optionnelles qui sont envisagées si nous avons le
 *   Une page pour chaque match, où les adversaires pourront communiquer entre eux et communiquer les résultats.
 *   Une page pour le paiement (si cette option est réalisable)
 
-### Comment développer le site ?
+## Comment développer le site ?
 
 On essaiera dans un premier temps de se faire connaitre dans les communautés des jeux traités, en se faisant voir sur les forums, et en passant par des joueurs influents. A plus long terme, on peut espérer trouver des sponsors avec les développeurs des jeux que nous promouvons, et pourquoi pas des publicités si le trafic du site devient assez important. Le site est donc dans un premier temps porté sur des tournois de jeux vidéos en 1 contre 1, mais on peut imaginer par la suite l'étendre aux jeux en équipe voir même peut être pour du poker... Nous prendrons le jeu Hearthstone (un jeu de cartes en ligne, en 1 contre 1) comme premier jeu, pour tester les fonctionnalités du site, et pouvoir implanter des spécificités (exemple des matchs en plusieurs manches).
 
-### Pourquoi rejoindre ce projet?
+## Pourquoi rejoindre ce projet?
 
 Nous cherchons a faire quelque chose de très propre, la simplicité de la création d'un tournoi serait l'atout majeur de notre site. Nous sommes pour le moment 3, plus nous sommes nombreux et plus nous pouvons étendre le site sur des terrains variés comme expliqué plus haut.
